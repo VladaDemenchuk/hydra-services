@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "SportsTeam": "http://schema.org/SportsTeam",
+    "name": "http://schema.org/name",
+    "identifier": "http://schema.org/identifier"
+  }
+}

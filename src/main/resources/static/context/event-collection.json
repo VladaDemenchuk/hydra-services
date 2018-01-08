@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "EventsCollection": "http://schema.org/events",
+    "Event": "http://schema.org/Event",
+    "members": "http://www.w3.org/ns/hydra/core#member"
+  }
+}
