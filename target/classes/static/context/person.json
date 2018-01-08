@@ -1,7 +1,0 @@
-{
-  "@context": {
-    "Person": "http://schema.org/Person",
-    "name": "http://schema.org/name",
-    "identifier": "http://schema.org/identifier"
-  }
-}
